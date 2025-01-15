@@ -1,2 +1,1 @@
-. a tech content creator is learning swiftUI & cyber security
-You can find me on: mastodon <a rel="me" href="https://macaw.social/@Youssef">Mastodon</a>
+ I’m a passionate Computer Science freshman with practical experience in C++ , Swift , and Python . Beyond academics, I love exploring tech and sharing knowledge by creating engaging content.
